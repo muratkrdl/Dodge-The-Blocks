@@ -5,6 +5,7 @@ Dodge the Blocks is a simple yet challenging game where you must dodge falling b
 
 To dodge a block, simply move your player out of the way before it hits you
 
+If you get hit by a block, you will lose your life and the level starts from the beginning
 
 # Gameplay
 
