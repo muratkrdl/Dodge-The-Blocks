@@ -1,6 +1,10 @@
 
 # Dodge-The-Blocks
 
+Dodge the Blocks is a simple yet challenging game where you must dodge falling blocks
+
+To dodge a block, simply move your player out of the way before it hits you
+
 
 # Gameplay
 
